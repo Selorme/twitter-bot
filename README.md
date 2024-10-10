@@ -33,7 +33,7 @@ speed_test_url=<URL_of_the_Speedtest_Website>
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/InternetSpeedTwitterBot.git
+    git clone https://github.com/Selorme/twitter-bot.git
     ```
 2. Navigate into the project directory:
     ```bash
